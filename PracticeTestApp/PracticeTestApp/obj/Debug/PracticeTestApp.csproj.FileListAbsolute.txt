@@ -1,0 +1,14 @@
+C:\NC_Engg\My Data\Personal\PracticeTestApp\PracticeTestApp\bin\Debug\PracticeTestApp.exe.config
+C:\NC_Engg\My Data\Personal\PracticeTestApp\PracticeTestApp\bin\Debug\PracticeTestApp.exe
+C:\NC_Engg\My Data\Personal\PracticeTestApp\PracticeTestApp\bin\Debug\PracticeTestApp.pdb
+C:\NC_Engg\My Data\Personal\PracticeTestApp\PracticeTestApp\obj\Debug\PracticeTestApp.csproj.AssemblyReference.cache
+C:\NC_Engg\My Data\Personal\PracticeTestApp\PracticeTestApp\obj\Debug\PracticeTestApp.csproj.CoreCompileInputs.cache
+C:\NC_Engg\My Data\Personal\PracticeTestApp\PracticeTestApp\obj\Debug\PracticeTestApp.exe
+C:\NC_Engg\My Data\Personal\PracticeTestApp\PracticeTestApp\obj\Debug\PracticeTestApp.pdb
+C:\Users\212615290\source\repos\punam-bh\abc23\PracticeTestApp\PracticeTestApp\bin\Debug\PracticeTestApp.exe.config
+C:\Users\212615290\source\repos\punam-bh\abc23\PracticeTestApp\PracticeTestApp\bin\Debug\PracticeTestApp.exe
+C:\Users\212615290\source\repos\punam-bh\abc23\PracticeTestApp\PracticeTestApp\bin\Debug\PracticeTestApp.pdb
+C:\Users\212615290\source\repos\punam-bh\abc23\PracticeTestApp\PracticeTestApp\obj\Debug\PracticeTestApp.csproj.AssemblyReference.cache
+C:\Users\212615290\source\repos\punam-bh\abc23\PracticeTestApp\PracticeTestApp\obj\Debug\PracticeTestApp.csproj.CoreCompileInputs.cache
+C:\Users\212615290\source\repos\punam-bh\abc23\PracticeTestApp\PracticeTestApp\obj\Debug\PracticeTestApp.exe
+C:\Users\212615290\source\repos\punam-bh\abc23\PracticeTestApp\PracticeTestApp\obj\Debug\PracticeTestApp.pdb
